@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Go to the gym"
+    },
+    {
+      "id": 2,
+      "name": "Go to the gym"
+    },
+    {
+      "id": 3,
+      "name": "Go to the gym"
+    },
+    {
+      "name": "dddd",
+      "id": 4
+    },
+    {
+      "name": "sdfsdfsdf",
+      "id": 5
+    },
+    {
+      "name": "ok",
+      "id": 6
+    },
+    {
+      "name": "TOYOTA",
+      "id": 7
+    },
+    {
+      "name": "ddd",
+      "id": 8
+    },
+    {
+      "name": "khamma",
+      "id": 9
+    },
+    {
+      "task_name": "vvvv",
+      "id": 10
+    },
+    {
+      "name": "SDFSDF",
+      "id": 11
+    },
+    {
+      "name": "FFFFF",
+      "id": 12
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
